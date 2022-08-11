@@ -6,4 +6,4 @@ Buscar las capitales de los departamentos de Corrientes y subirlo a un CSV para 
 Buscar shapefile de rutas de Argentina.
 Generar la matriz de OD entre las capitales de departamentos de Corrientes y también calcular la ruta más rápida entre dos ciudades, generar mapa. Poner los costos =1 
 
-Se entregan los siguientes archivos: csv con la matriz, mapa con la ruta y csv con las capitales de corrientes georeferenciadas (la tabla de atributos del shapefile). 
+Se entregan los siguientes archivos en la carpeta output: csv con la matriz, mapa con la ruta y csv con las capitales de corrientes georeferenciadas (la tabla de atributos del shapefile). 
