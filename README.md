@@ -4,6 +4,6 @@ Se presentan los archivos que dan respuesta al sexto trabajo practico de la mate
 Se busca dar respuesta a la siguientes consignas:
 1. Buscar las capitales de los departamentos de Corrientes y subirlo a un CSV para geocodificarlos.
 2. Buscar shapefile de rutas de Argentina.
-3. Generar la matriz de OD entre las capitales de departamentos de Corrientes y también calcular la ruta más rápida entre dos ciudades, generar mapa. Poner los costos =1 
+3. Generar la matriz de OD entre las capitales de departamentos de Corrientes y también calcular la ruta más rápida entre dos ciudades, generar mapa. 
 
 Se entregan los siguientes archivos en la carpeta output: csv con la matriz, mapa con la ruta y csv con las capitales de corrientes georeferenciadas (la tabla de atributos del shapefile). 
